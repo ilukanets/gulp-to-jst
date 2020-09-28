@@ -1,4 +1,4 @@
-# gulp-to-jst
+# @ilukanets/gulp-to-jst
 > A [gulp](http://gulpjs.com/) plugin to compile
 [underscore](http://underscorejs.org/#template) / [lodash](http://lodash.com/docs#template)
 templates into a single file.
@@ -8,13 +8,13 @@ Based on the same gulp plugin [gulp-tojst](https://npmjs.org/package/gulp-tojst)
 It has replaced deprecated [gulp-util](https://www.npmjs.com/package/gulp-util) dependency.
 
 ## Install
-Install using [npm](https://npmjs.org/package/gulp-to-jst).
+Install using [npm](https://npmjs.org/package/@ilukanets/gulp-to-jst).
 
-    $ npm install gulp-to-jst
+    $ npm install @ilukanets/gulp-to-jst
 
 ## Usage
 ```javascript
-var toJST = require('gulp-to-jst');
+var toJST = require('@ilukanets/gulp-to-jst');
 
 gulp.task('jst', function () {
   gulp.src('templates/**/*.html')
