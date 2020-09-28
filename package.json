@@ -12,8 +12,7 @@
     "vinyl": "^2.2.1"
   },
   "author": {
-    "name": "Ihor Lukanets",
-    "email": "ilukanets@gmail.com"
+    "name": "Ihor Lukanets"
   },
   "license": "MIT",
   "main": "index.js",
