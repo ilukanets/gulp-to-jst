@@ -1,0 +1,30 @@
+{
+  "name": "gulp-to-jst",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Ihor Lukanets",
+    "email": "ilukanets@gmail.com"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "jst",
+    "concat",
+    "underscore",
+    "lodash",
+    "template"
+  ],
+  "repository": "ilukanets/gulp-to-jst"
+}
