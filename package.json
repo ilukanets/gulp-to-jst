@@ -30,5 +30,8 @@
     "lodash",
     "template"
   ],
-  "repository": "ilukanets/gulp-to-jst"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilukanets/gulp-to-jst.git"
+  }
 }
