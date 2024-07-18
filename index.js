@@ -4,8 +4,8 @@ const pluginName = 'gulp-to-jst';
 const Vinyl = require('vinyl');
 const PluginError = require('plugin-error');
 const through = require('through');
-const assign = require('lodash.assign');
-const template = require('lodash.template');
+const assign = require('lodash/assign');
+const template = require('lodash/template');
 
 function pluginError(message) {
   return new PluginError(pluginName, message);
